@@ -1,0 +1,6 @@
+1.Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+2.GitHub is an online software development platform used for storing, tracking, and collaborating on software projects.
+3.Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience
+4.Version control systems are software tools that help software teams manage changes to source code over time.
+5. Git uses the concept of local repository where you have a copy of the “complete repository” of your project
+6. Repositories in GIT contain a collection of files of various different versions of a Project
